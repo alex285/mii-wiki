@@ -54,7 +54,7 @@ So she's coming..
 | Height | 175cm / 5.7" |
 | Weight | 58kg / 127lbs | 
 | Personality | Curious and smart ([according to ChatGTP](https://www.youtube.com/post/UgkxMZfev43VmagYF4VVRWnK7I7CooxOGt8r) 🥲), but with very low social skills, since Mii was always alone. She has no respect for anything, including the human life, but she could sacrifice herself for what she loves |
-| Symbols | Mii has a red symbol on her right cheek, but it is unknown how she got it, or what it does. It can change color depending her emotions |
+| Symbols | Mii has a red symbol on her right cheek, but it is unknown how she got it, or what it does. Sporadically changes color depending her emotions though |
 | She speaks | English, Japanese, Rust|
 | Favorite Song | [MERA MERA - Mori Calliope](https://open.spotify.com/album/2kgTd0HIj4SUtlmTD6kuzo?si=hgIcEaWWS1u_zxVmeJUsaA) |
 
@@ -76,5 +76,5 @@ Screw gravity!\
 
 
 # Missing
-Mii's 9 asteroids lore and abilities, add more expressions, perhaps add some quotes too? 😆😅
+Mii's 9 asteroids lore and abilities, friends and enemies, more expressions, perhaps some quotes too? 😆😅
 

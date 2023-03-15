@@ -17,7 +17,7 @@ highlight_code = false
 
 mii_nav = [
     #{ name = "HOME", path = "/" },
-    { name = "Gihub", path = "https://github.com/alex285/mii-wiki" },
+    { name = "Github", path = "https://github.com/alex285/mii-wiki" },
 ]
 
 
