@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>{% if page.title %}{{ page.title }} :: {% endif %}{{ config.title }}</title>
+    <link rel="stylesheet" href="{{ get_url(path="styles.css") | safe }}">
+    <meta name="description"
+        content="{% if page.description %}{{ page.description | safe }}{% else %}{{ config.description | safe }}{% endif %}">
+    <meta property="og:title"
+        content="{% if page.title %}{{ page.title | safe }} :: {% endif %}{{ config.title | safe }}">
+    <meta property="og:description"
+        content="{% if page.description %}{{ page.description | safe }}{% else %}{{ config.description | safe }}{% endif %}">
+    <meta property="og:type" content="website">
+    {% if current_url %}
+    <meta property="og:url" content="{{ current_url | safe }}">
+    <link rel="canonical" href="{{ current_url | safe }}">
+    {% endif %}
+    <link rel="icon" href="{{ config.extra.mii_icon | safe }}">
+    <style>     
+        @media (max-width: 767px) {
+            .markdown-body {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+
+<body class="markdown-body">
+
+    <header>
+        <nav>
+            {% for link in config.extra.mii_nav %}
+            <a href="{{ link.path | safe }}">{{ link.name }}</a>
+            {% endfor %}
+        </nav>
+        <hr>
+    </header>
+
+    <main>
+        <div>
+            {% block content %}{% endblock content %}
+        </div>  
+    </main>
+</body>
+
+</html>
