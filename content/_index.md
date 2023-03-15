@@ -14,12 +14,12 @@ Mii is a fictional character and the protagonist of [baby WOGUE YouTube](https:/
 
 Before the Big Bang, there was another Universe, called Mera. Mera had very different laws of physics that we know today, and elements not present on our periodic table. Mystic elements with powerful abilities, and yet, unable to create life.
 
-Mera was filled with energy and matter, and mindless celestial bodies known as Titans. Cronus was the biggest Titan of all, and was getting bigger by consuming everything on his way, threating Mera with a devastating end.
+Mera was filled with energy and matter, and mindless celestial bodies known as Titans. Skotos was the biggest Titan of all, and was getting bigger by consuming everything on his way, threating Mera with a devastating end.
 
 Before the danger of the complete emptyness, everywhere and forever, 9 of the Mera's enchanted elements combined together, releasing a new form of energy across the universe, energy that made Mera to grow emotional.
 
-The fear Mera felt, made her strong enough to push Cronus to the very edge of her.
-Ironically, with the exodus of Cronus from Mera's cosmic balance, Mera caused her own destruction, because the Titan underwent to a massive reaction and expansion, replacing Mera with a newborn universe. What we know today as Big Bang.
+The fear Mera felt, made her strong enough to push Skotos to the very edge of her.
+Ironically, with the exodus of Skotos from Mera's cosmic balance, Mera caused her own destruction, because the Titan underwent to a massive reaction and expansion, replacing Mera with a newborn universe. What we know today as Big Bang.
 
 However, somewhere beyond the boundaries of our world, there is still a small part of Mera left, surviving the space expansion. A place where someone could observe all the universe. That's where Mii was born.
 
